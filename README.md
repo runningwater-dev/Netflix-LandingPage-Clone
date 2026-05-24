@@ -1,4 +1,4 @@
-# Check out the live project here: [Netflix Clone](https://netflix-clone-html5-css3-js.vercel.app)
+# Check out the live project here: [Netflix Clone](https://landing-page-html5-css3-js.vercel.app/)
 ## Features
 - Responsive Netflix-inspired landing page
 - Modern UI built with HTML5, CSS3, and JavaScript
