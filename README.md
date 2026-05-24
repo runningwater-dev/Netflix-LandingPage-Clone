@@ -12,3 +12,13 @@ HTML5, CSS3, JavaScript
 
 ## Purpose
 Built to strengthen frontend development skills by recreating a real-world streaming platform interface and improving responsive web design concepts.
+
+# Deployment
+
+Frontend deployed using Vercel.
+
+# Acknowledgements
+
+Inspired by Netflix UI design.
+
+---
